@@ -1,1 +1,0 @@
-Disposable live merge verification for triage-companion iteration 6.
